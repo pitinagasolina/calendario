@@ -1,0 +1,141 @@
+name: Actualizar calendario
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v5
+
+      - name: Preparar Python
+        run: |
+          python -m pip install --upgrade pip
+          pip install icalendar requests
+
+      - name: Crear combinador
+        run: |
+          cat > combinar_ics.py <<'PY'
+          import requests
+          from icalendar import Calendar
+
+          FUENTES = [
+              (
+                  "Formula 1",
+                  "https://ics.ecal.com/ecal-sub/65cc910b323039000856e951/Formula%201.ics"
+              ),
+              (
+                  "Los Angeles Lakers",
+                  "https://cdn.nba.com/teams/calendars/lakers.ics"
+              ),
+              (
+                  "Real Madrid",
+                  "https://pub.fotmob.com/prod/pub/api/v2/calendar/team/8633.ics"
+              ),
+              (
+                  "Real Murcia",
+                  "https://pub.fotmob.com/prod/pub/api/v2/calendar/team/8392.ics"
+              ),
+              (
+                  "Real Madrid Baloncesto",
+                  "https://publish-p47754-e237306.adobeaemcloud.com/content/sling/app-servlets/realmadrid/ical.6210.en-us.ics"
+              ),
+          ]
+
+          salida = Calendar()
+          salida.add("VERSION", "2.0")
+          salida.add("PRODID", "-//pitinagasolina//Calendario Deportes//ES")
+          salida.add("CALSCALE", "GREGORIAN")
+          salida.add("METHOD", "PUBLISH")
+          salida.add("X-WR-CALNAME", "Calendario Deportes")
+          salida.add("X-WR-TIMEZONE", "Europe/Madrid")
+
+          headers = {
+              "User-Agent": "Mozilla/5.0"
+          }
+
+          total_eventos = 0
+
+          for nombre, url in FUENTES:
+              print()
+              print("=" * 70)
+              print(f"FUENTE: {nombre}")
+              print(f"URL: {url}")
+              print("=" * 70)
+
+              respuesta = requests.get(
+                  url,
+                  headers=headers,
+                  timeout=60
+              )
+
+              respuesta.raise_for_status()
+
+              datos = respuesta.content
+
+              print(f"Descargados: {len(datos)} bytes")
+
+              calendario = Calendar.from_ical(datos)
+
+              eventos = 0
+
+              for componente in calendario.walk():
+                  if componente.name == "VEVENT":
+                      salida.add_component(componente)
+                      eventos += 1
+                      total_eventos += 1
+
+              print(f"Eventos encontrados: {eventos}")
+
+          if total_eventos == 0:
+              raise RuntimeError(
+                  "No se ha encontrado ningún evento en las fuentes."
+              )
+
+          with open("calendario.ics", "wb") as archivo:
+              archivo.write(salida.to_ical())
+
+          print()
+          print("=" * 70)
+          print(f"TOTAL DE EVENTOS: {total_eventos}")
+          print("=" * 70)
+          PY
+
+      - name: Combinar calendarios
+        run: |
+          python combinar_ics.py
+
+      - name: Validar calendario
+        run: |
+          test -s calendario.ics
+          grep -q "BEGIN:VCALENDAR" calendario.ics
+          grep -q "END:VCALENDAR" calendario.ics
+          grep -q "BEGIN:VEVENT" calendario.ics
+
+          echo "=========================================="
+          echo "CALENDARIO GENERADO CORRECTAMENTE"
+          echo "=========================================="
+          echo "Tamaño: $(wc -c < calendario.ics) bytes"
+          echo "Eventos: $(grep -c "BEGIN:VEVENT" calendario.ics)"
+
+      - name: Publicar en GitHub
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add calendario.ics
+
+          if git diff --cached --quiet; then
+            echo "No hay cambios en el calendario."
+          else
+            git commit -m "Actualizar calendario"
+            git push
+          fi
