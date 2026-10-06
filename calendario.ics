@@ -6506,7 +6506,7 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Golden State Warriors Gold
 DTSTART:20260704T023000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127471322600002
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/1322600002?p
@@ -6521,7 +6521,7 @@ BEGIN:VEVENT
 SUMMARY:Miami Heat @ Los Angeles Lakers
 DTSTART:20260705T203000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127471322600006
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/1322600006?p
@@ -6536,7 +6536,7 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ San Antonio Spurs
 DTSTART:20260706T233000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127471322600009
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/1322600009?p
@@ -6551,7 +6551,7 @@ BEGIN:VEVENT
 SUMMARY:Oklahoma City Thunder @ Los Angeles Lakers
 DTSTART:20260711T020000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127471522600014
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/1522600014?p
@@ -6565,7 +6565,7 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Dallas Mavericks
 DTSTART:20260712T020000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127471522600023
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/1522600023?p
@@ -6579,7 +6579,7 @@ BEGIN:VEVENT
 SUMMARY:LA Clippers @ Los Angeles Lakers
 DTSTART:20260715T020000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127471522600045
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/1522600045?p
@@ -6593,7 +6593,7 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Chicago Bulls
 DTSTART:20260716T220000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127471522600056
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/1522600056?p
@@ -6608,7 +6608,7 @@ BEGIN:VEVENT
 SUMMARY:Golden State Warriors @ Los Angeles Lakers
 DTSTART:20260719T003000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127471522600071
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/1522600071?p
@@ -6623,13 +6623,14 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Sacramento Kings
 DTSTART:20261006T020000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470012600028
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0012600028?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- TB
- D\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on N
- BA.com: https://www.nba.com/lakers/game/0012600028\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- NBA TV\n- Kings+\n- Kings+\n\nListen to This Game:\n-
+  ESPN LA 710/980 KFWB\n- Kings Radio\n\nFollow this game on NBA.com: https
+ ://www.nba.com/lakers/game/0012600028\n
 LOCATION:Golden 1 Center - Sacramento\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -6638,13 +6639,14 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Golden State Warriors
 DTSTART:20261007T020000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470012600010
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0012600010?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- TB
- D\n- NBCSBA\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this
-  game on NBA.com: https://www.nba.com/lakers/game/0012600010\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- NBA TV\n- NBCSBA/PCK-GSW\n\nListen to This Game:\n- E
+ SPN LA 710/980 KFWB\n- 95.7 The Game\n\nFollow this game on NBA.com: https
+ ://www.nba.com/lakers/game/0012600010\n
 LOCATION:Chase Center - San Francisco\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -6653,16 +6655,17 @@ BEGIN:VEVENT
 SUMMARY:Sacramento Kings @ Los Angeles Lakers
 DTSTART:20261009T023000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470012600036
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0012600036?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- ES
- PN2\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on
-  NBA.com: https://www.nba.com/lakers/game/0012600036\n\nGet Tickets: https
- ://www.ticketmaster.com/event/2C00650CC2F50DEA?brand=lakers&artistid=80596
- 2&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_PR1&utm_source=NBA.com&utm_medium=client_
- PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_PR1\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- ESPN2\n- Kings+\n- Kings+\n\nListen to This Game:\n- 
+ ESPN LA 710/980 KFWB\n- Kings Radio\n\nFollow this game on NBA.com: https:
+ //www.nba.com/lakers/game/0012600036\n\nGet Tickets: https://www.ticketmas
+ ter.com/event/2C00650CC2F50DEA?brand=lakers&artistid=805962&wt.mc_id=NBA_T
+ EAM_LAL_SCHED_PG_PR1&utm_source=NBA.com&utm_medium=client_PM&utm_campaign=
+ NBA_TEAM_LAL&utm_content=SCHED_PG_PR1\n
 LOCATION:Crypto.com Arena - Los Angeles\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -6671,15 +6674,15 @@ BEGIN:VEVENT
 SUMMARY:Golden State Warriors @ Los Angeles Lakers
 DTSTART:20261014T020000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470012600048
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0012600048?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- TB
- D\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on N
- BA.com: https://www.nba.com/lakers/game/0012600048\n\nGet Tickets: https:/
- /www.axs.com/events/1442849/los-angeles-lakers-vs-golden-state-warriors-ti
- ckets\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- NBA TV\n\nListen to This Game:\n- ESPN LA 710/980 KFW
+ B\n- 95.7 The Game\n\nFollow this game on NBA.com: https://www.nba.com/lak
+ ers/game/0012600048\n\nGet Tickets: https://www.axs.com/events/1442849/los
+ -angeles-lakers-vs-golden-state-warriors-tickets\n
 LOCATION:T-Mobile Arena - Las Vegas\, NV
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -6688,16 +6691,17 @@ BEGIN:VEVENT
 SUMMARY:Denver Nuggets @ Los Angeles Lakers
 DTSTART:20261017T023000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470012600063
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0012600063?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- ES
- PN\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on 
- NBA.com: https://www.nba.com/lakers/game/0012600063\n\nGet Tickets: https:
- //www.ticketmaster.com/event/2C00650CC2FA0DEC?brand=lakers&artistid=805962
- &wt.mc_id=NBA_TEAM_LAL_SCHED_PG_PR2&utm_source=NBA.com&utm_medium=client_P
- M&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_PR2\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- ESPN\n\nListen to This Game:\n- ESPN LA 710/980 KFWB
+ \n\nFollow this game on NBA.com: https://www.nba.com/lakers/game/001260006
+ 3\n\nGet Tickets: https://www.ticketmaster.com/event/2C00650CC2FA0DEC?bran
+ d=lakers&artistid=805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_PR2&utm_source=NBA
+ .com&utm_medium=client_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_P
+ R2\n
 LOCATION:Crypto.com Arena - Los Angeles\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -6706,7 +6710,7 @@ BEGIN:VEVENT
 SUMMARY:Golden State Warriors @ Los Angeles Lakers
 DTSTART:20261022T020000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600005
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600005?p
@@ -6724,16 +6728,16 @@ BEGIN:VEVENT
 SUMMARY:LA Clippers @ Los Angeles Lakers
 DTSTART:20261024T020000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600102
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600102?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n\nLi
- sten to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on NBA.com:
-  https://www.nba.com/lakers/game/0022600102\n\nGet Tickets: https://www.ti
- cketmaster.com/event/2C00650CC3050DF0?brand=lakers&artistid=805962&wt.mc_i
- d=NBA_TEAM_LAL_SCHED_PG_GM2&utm_source=NBA.com&utm_medium=client_PM&utm_ca
- mpaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM2\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollo
+ w this game on NBA.com: https://www.nba.com/lakers/game/0022600102\n\nGet 
+ Tickets: https://www.ticketmaster.com/event/2C00650CC3050DF0?brand=lakers&
+ artistid=805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM2&utm_source=NBA.com&utm_
+ medium=client_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM2\n
 LOCATION:Crypto.com Arena - Los Angeles\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -6742,13 +6746,13 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Utah Jazz
 DTSTART:20261025T210000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600112
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600112?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n\nLi
- sten to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on NBA.com:
-  https://www.nba.com/lakers/game/0022600112\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollo
+ w this game on NBA.com: https://www.nba.com/lakers/game/0022600112\n
 LOCATION:Delta Center - Salt Lake City\, UT
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -6757,17 +6761,17 @@ BEGIN:VEVENT
 SUMMARY:Portland Trail Blazers @ Los Angeles Lakers
 DTSTART:20261028T030000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600131
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600131?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- NB
- C\n- Peacock\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n- Rip City R
- adio 620\n\nFollow this game on NBA.com: https://www.nba.com/lakers/game/0
- 022600131\n\nGet Tickets: https://www.ticketmaster.com/event/2C00650CC30A0
- DF2?brand=lakers&artistid=805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM3&utm_so
- urce=NBA.com&utm_medium=client_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SC
- HED_PG_GM3\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- NBC\n- Peacock\n\nListen to This Game:\n- ESPN LA 710
+ /980 KFWB\n- Rip City Radio 620\n\nFollow this game on NBA.com: https://ww
+ w.nba.com/lakers/game/0022600131\n\nGet Tickets: https://www.ticketmaster.
+ com/event/2C00650CC30A0DF2?brand=lakers&artistid=805962&wt.mc_id=NBA_TEAM_
+ LAL_SCHED_PG_GM3&utm_source=NBA.com&utm_medium=client_PM&utm_campaign=NBA_
+ TEAM_LAL&utm_content=SCHED_PG_GM3\n
 LOCATION:Crypto.com Arena - Los Angeles\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -6776,13 +6780,13 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ LA Clippers
 DTSTART:20261029T023000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600143
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600143?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n\nLi
- sten to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on NBA.com:
-  https://www.nba.com/lakers/game/0022600143\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollo
+ w this game on NBA.com: https://www.nba.com/lakers/game/0022600143\n
 LOCATION:Intuit Dome - Inglewood\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -6791,7 +6795,7 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Golden State Warriors
 DTSTART:20261031T020000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600023
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600023?p
@@ -6806,16 +6810,16 @@ BEGIN:VEVENT
 SUMMARY:Toronto Raptors @ Los Angeles Lakers
 DTSTART:20261102T020000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600157
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600157?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n\nLi
- sten to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on NBA.com:
-  https://www.nba.com/lakers/game/0022600157\n\nGet Tickets: https://www.ti
- cketmaster.com/event/2C00650CC3100DF4?brand=lakers&artistid=805962&wt.mc_i
- d=NBA_TEAM_LAL_SCHED_PG_GM4&utm_source=NBA.com&utm_medium=client_PM&utm_ca
- mpaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM4\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollo
+ w this game on NBA.com: https://www.nba.com/lakers/game/0022600157\n\nGet 
+ Tickets: https://www.ticketmaster.com/event/2C00650CC3100DF4?brand=lakers&
+ artistid=805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM4&utm_source=NBA.com&utm_
+ medium=client_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM4\n
 LOCATION:Crypto.com Arena - Los Angeles\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -6824,17 +6828,17 @@ BEGIN:VEVENT
 SUMMARY:Miami Heat @ Los Angeles Lakers
 DTSTART:20261103T030000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600172
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600172?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- WP
- LG Local 10\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n- FM 104.3 WQ
- AM / S: WAQI 710\n\nFollow this game on NBA.com: https://www.nba.com/laker
- s/game/0022600172\n\nGet Tickets: https://www.ticketmaster.com/event/2C006
- 50CC3150DF6?brand=lakers&artistid=805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM
- 5&utm_source=NBA.com&utm_medium=client_PM&utm_campaign=NBA_TEAM_LAL&utm_co
- ntent=SCHED_PG_GM5\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- WPLG Local 10\n\nListen to This Game:\n- ESPN LA 710/
+ 980 KFWB\n- FM 104.3 WQAM / S: WAQI 710\n\nFollow this game on NBA.com: ht
+ tps://www.nba.com/lakers/game/0022600172\n\nGet Tickets: https://www.ticke
+ tmaster.com/event/2C00650CC3150DF6?brand=lakers&artistid=805962&wt.mc_id=N
+ BA_TEAM_LAL_SCHED_PG_GM5&utm_source=NBA.com&utm_medium=client_PM&utm_campa
+ ign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM5\n
 LOCATION:Crypto.com Arena - Los Angeles\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -6843,13 +6847,14 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Sacramento Kings
 DTSTART:20261105T030000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600185
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600185?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- NB
- CSCA\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game o
- n NBA.com: https://www.nba.com/lakers/game/0022600185\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- NBCSCA\n\nListen to This Game:\n- ESPN LA 710/980 KFW
+ B\n\nFollow this game on NBA.com: https://www.nba.com/lakers/game/00226001
+ 85\n
 LOCATION:Golden 1 Center - Sacramento\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -6858,17 +6863,17 @@ BEGIN:VEVENT
 SUMMARY:Portland Trail Blazers @ Los Angeles Lakers
 DTSTART:20261107T030000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600032
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600032?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- Pr
- ime Video\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n- Rip City Radi
- o 620\n\nFollow this game on NBA.com: https://www.nba.com/lakers/game/0022
- 600032\n\nGet Tickets: https://www.ticketmaster.com/event/2C00650CC31A0DFA
- ?brand=lakers&artistid=805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM6&utm_sourc
- e=NBA.com&utm_medium=client_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED
- _PG_GM6\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- Prime Video\n\nListen to This Game:\n- ESPN LA 710/98
+ 0 KFWB\n- Rip City Radio 620\n\nFollow this game on NBA.com: https://www.n
+ ba.com/lakers/game/0022600032\n\nGet Tickets: https://www.ticketmaster.com
+ /event/2C00650CC31A0DFA?brand=lakers&artistid=805962&wt.mc_id=NBA_TEAM_LAL
+ _SCHED_PG_GM6&utm_source=NBA.com&utm_medium=client_PM&utm_campaign=NBA_TEA
+ M_LAL&utm_content=SCHED_PG_GM6\n
 LOCATION:Crypto.com Arena - Los Angeles\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -6877,13 +6882,14 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Detroit Pistons
 DTSTART:20261108T230000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600197
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600197?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- NB
- A TV\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game o
- n NBA.com: https://www.nba.com/lakers/game/0022600197\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- NBA TV\n\nListen to This Game:\n- ESPN LA 710/980 KFW
+ B\n\nFollow this game on NBA.com: https://www.nba.com/lakers/game/00226001
+ 97\n
 LOCATION:Little Caesars Arena - Detroit\, MI
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -6892,13 +6898,13 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Atlanta Hawks
 DTSTART:20261110T000000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600203
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600203?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n\nLi
- sten to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on NBA.com:
-  https://www.nba.com/lakers/game/0022600203\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollo
+ w this game on NBA.com: https://www.nba.com/lakers/game/0022600203\n
 LOCATION:State Farm Arena - Atlanta\, GA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -6907,13 +6913,13 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Milwaukee Bucks
 DTSTART:20261112T010000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600222
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600222?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n\nLi
- sten to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on NBA.com:
-  https://www.nba.com/lakers/game/0022600222\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollo
+ w this game on NBA.com: https://www.nba.com/lakers/game/0022600222\n
 LOCATION:Fiserv Forum - Milwaukee\, WI
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -6922,13 +6928,14 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Phoenix Suns
 DTSTART:20261115T210000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600237
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600237?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n\nLi
- sten to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on NBA.com:
-  https://www.nba.com/lakers/game/0022600237\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- KTVK/KPHE/AZFS App\n- Suns+\n\nListen to This Game:\n
+ - ESPN LA 710/980 KFWB\n- ESPN Phoenix 620 AM\n\nFollow this game on NBA.c
+ om: https://www.nba.com/lakers/game/0022600237\n
 LOCATION:Mortgage Matchup Center - Phoenix\, AZ
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -6937,16 +6944,16 @@ BEGIN:VEVENT
 SUMMARY:Charlotte Hornets @ Los Angeles Lakers
 DTSTART:20261118T030000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600256
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600256?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n\nLi
- sten to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on NBA.com:
-  https://www.nba.com/lakers/game/0022600256\n\nGet Tickets: https://www.ti
- cketmaster.com/event/2C00650CC3200DFF?brand=lakers&artistid=805962&wt.mc_i
- d=NBA_TEAM_LAL_SCHED_PG_GM7&utm_source=NBA.com&utm_medium=client_PM&utm_ca
- mpaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM7\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollo
+ w this game on NBA.com: https://www.nba.com/lakers/game/0022600256\n\nGet 
+ Tickets: https://www.ticketmaster.com/event/2C00650CC3200DFF?brand=lakers&
+ artistid=805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM7&utm_source=NBA.com&utm_
+ medium=client_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM7\n
 LOCATION:Crypto.com Arena - Los Angeles\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -6955,16 +6962,16 @@ BEGIN:VEVENT
 SUMMARY:Utah Jazz @ Los Angeles Lakers
 DTSTART:20261119T030000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600268
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600268?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n\nLi
- sten to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on NBA.com:
-  https://www.nba.com/lakers/game/0022600268\n\nGet Tickets: https://www.ti
- cketmaster.com/event/2C00650CC3250E01?brand=lakers&artistid=805962&wt.mc_i
- d=NBA_TEAM_LAL_SCHED_PG_GM8&utm_source=NBA.com&utm_medium=client_PM&utm_ca
- mpaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM8\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollo
+ w this game on NBA.com: https://www.nba.com/lakers/game/0022600268\n\nGet 
+ Tickets: https://www.ticketmaster.com/event/2C00650CC3250E01?brand=lakers&
+ artistid=805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM8&utm_source=NBA.com&utm_
+ medium=client_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM8\n
 LOCATION:Crypto.com Arena - Los Angeles\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -6973,16 +6980,17 @@ BEGIN:VEVENT
 SUMMARY:Sacramento Kings @ Los Angeles Lakers
 DTSTART:20261121T030000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600051
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600051?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- NB
- CSCA\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game o
- n NBA.com: https://www.nba.com/lakers/game/0022600051\n\nGet Tickets: http
- s://www.ticketmaster.com/event/2C00650CC32B0E03?brand=lakers&artistid=8059
- 62&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM9&utm_source=NBA.com&utm_medium=client
- _PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM9\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- NBCSCA\n\nListen to This Game:\n- ESPN LA 710/980 KFW
+ B\n\nFollow this game on NBA.com: https://www.nba.com/lakers/game/00226000
+ 51\n\nGet Tickets: https://www.ticketmaster.com/event/2C00650CC32B0E03?bra
+ nd=lakers&artistid=805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM9&utm_source=NB
+ A.com&utm_medium=client_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_
+ GM9\n
 LOCATION:Crypto.com Arena - Los Angeles\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -6991,16 +6999,17 @@ BEGIN:VEVENT
 SUMMARY:Utah Jazz @ Los Angeles Lakers
 DTSTART:20261124T030000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600295
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600295?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- NB
- A TV\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game o
- n NBA.com: https://www.nba.com/lakers/game/0022600295\n\nGet Tickets: http
- s://www.ticketmaster.com/event/2C00650CC3300E06?brand=lakers&artistid=8059
- 62&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM10&utm_source=NBA.com&utm_medium=clien
- t_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM10\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- NBA TV\n\nListen to This Game:\n- ESPN LA 710/980 KFW
+ B\n\nFollow this game on NBA.com: https://www.nba.com/lakers/game/00226002
+ 95\n\nGet Tickets: https://www.ticketmaster.com/event/2C00650CC3300E06?bra
+ nd=lakers&artistid=805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM10&utm_source=N
+ BA.com&utm_medium=client_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG
+ _GM10\n
 LOCATION:Crypto.com Arena - Los Angeles\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7009,7 +7018,7 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ San Antonio Spurs
 DTSTART:20261128T023000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600071
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600071?p
@@ -7024,13 +7033,13 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Memphis Grizzlies
 DTSTART:20261129T210000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600302
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600302?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n\nLi
- sten to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on NBA.com:
-  https://www.nba.com/lakers/game/0022600302\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollo
+ w this game on NBA.com: https://www.nba.com/lakers/game/0022600302\n
 LOCATION:FedExForum - Memphis\, TN
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7039,7 +7048,7 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Houston Rockets
 DTSTART:20261201T003000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600315
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600315?p
@@ -7054,13 +7063,13 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ New Orleans Pelicans
 DTSTART:20261203T010000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600332
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600332?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n\nLi
- sten to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on NBA.com:
-  https://www.nba.com/lakers/game/0022600332\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollo
+ w this game on NBA.com: https://www.nba.com/lakers/game/0022600332\n
 LOCATION:Smoothie King Center - New Orleans\, LA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7069,16 +7078,17 @@ BEGIN:VEVENT
 SUMMARY:New Orleans Pelicans @ Los Angeles Lakers
 DTSTART:20261215T030000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600365
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600365?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- NB
- A TV\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game o
- n NBA.com: https://www.nba.com/lakers/game/0022600365\n\nGet Tickets: http
- s://www.ticketmaster.com/event/2C00650CC3360E08?brand=lakers&artistid=8059
- 62&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM12&utm_source=NBA.com&utm_medium=clien
- t_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM12\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- NBA TV\n\nListen to This Game:\n- ESPN LA 710/980 KFW
+ B\n\nFollow this game on NBA.com: https://www.nba.com/lakers/game/00226003
+ 65\n\nGet Tickets: https://www.ticketmaster.com/event/2C00650CC3360E08?bra
+ nd=lakers&artistid=805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM12&utm_source=N
+ BA.com&utm_medium=client_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG
+ _GM12\n
 LOCATION:Crypto.com Arena - Los Angeles\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7087,13 +7097,14 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Minnesota Timberwolves
 DTSTART:20261217T023000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600380
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600380?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- ES
- PN\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on 
- NBA.com: https://www.nba.com/lakers/game/0022600380\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- ESPN\n\nListen to This Game:\n- ESPN LA 710/980 KFWB
+ \n\nFollow this game on NBA.com: https://www.nba.com/lakers/game/002260038
+ 0\n
 LOCATION:Target Center - Minneapolis\, MN
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7102,13 +7113,13 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Minnesota Timberwolves
 DTSTART:20261219T010000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600393
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600393?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n\nLi
- sten to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on NBA.com:
-  https://www.nba.com/lakers/game/0022600393\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollo
+ w this game on NBA.com: https://www.nba.com/lakers/game/0022600393\n
 LOCATION:Target Center - Minneapolis\, MN
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7117,13 +7128,14 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Denver Nuggets
 DTSTART:20261220T020000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600399
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600399?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- NB
- A TV\n- ALT/ALT+/KTVD\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nF
- ollow this game on NBA.com: https://www.nba.com/lakers/game/0022600399\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- NBA TV\n- ALT/ALT+/KTVD\n\nListen to This Game:\n- ES
+ PN LA 710/980 KFWB\n\nFollow this game on NBA.com: https://www.nba.com/lak
+ ers/game/0022600399\n
 LOCATION:Ball Arena - Denver\, CO
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7132,16 +7144,17 @@ BEGIN:VEVENT
 SUMMARY:Indiana Pacers @ Los Angeles Lakers
 DTSTART:20261222T030000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600418
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600418?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- NB
- A TV\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game o
- n NBA.com: https://www.nba.com/lakers/game/0022600418\n\nGet Tickets: http
- s://www.ticketmaster.com/event/2C00650CC33B0E0A?brand=lakers&artistid=8059
- 62&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM13&utm_source=NBA.com&utm_medium=clien
- t_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM13\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- NBA TV\n\nListen to This Game:\n- ESPN LA 710/980 KFW
+ B\n\nFollow this game on NBA.com: https://www.nba.com/lakers/game/00226004
+ 18\n\nGet Tickets: https://www.ticketmaster.com/event/2C00650CC33B0E0A?bra
+ nd=lakers&artistid=805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM13&utm_source=N
+ BA.com&utm_medium=client_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG
+ _GM13\n
 LOCATION:Crypto.com Arena - Los Angeles\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7150,16 +7163,17 @@ BEGIN:VEVENT
 SUMMARY:Denver Nuggets @ Los Angeles Lakers
 DTSTART:20261224T030000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600435
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600435?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- Pr
- ime Video\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this g
- ame on NBA.com: https://www.nba.com/lakers/game/0022600435\n\nGet Tickets:
-  https://www.ticketmaster.com/event/2C00650CC3400E0D?brand=lakers&artistid
- =805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM14&utm_source=NBA.com&utm_medium=
- client_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM14\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- Prime Video\n\nListen to This Game:\n- ESPN LA 710/98
+ 0 KFWB\n\nFollow this game on NBA.com: https://www.nba.com/lakers/game/002
+ 2600435\n\nGet Tickets: https://www.ticketmaster.com/event/2C00650CC3400E0
+ D?brand=lakers&artistid=805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM14&utm_sou
+ rce=NBA.com&utm_medium=client_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCH
+ ED_PG_GM14\n
 LOCATION:Crypto.com Arena - Los Angeles\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7168,7 +7182,7 @@ BEGIN:VEVENT
 SUMMARY:Philadelphia 76ers @ Los Angeles Lakers
 DTSTART:20261225T220000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600012
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600012?p
@@ -7186,16 +7200,16 @@ BEGIN:VEVENT
 SUMMARY:Memphis Grizzlies @ Los Angeles Lakers
 DTSTART:20261228T020000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600457
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600457?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n\nLi
- sten to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on NBA.com:
-  https://www.nba.com/lakers/game/0022600457\n\nGet Tickets: https://www.ti
- cketmaster.com/event/2C00650CC34C0E11?brand=lakers&artistid=805962&wt.mc_i
- d=NBA_TEAM_LAL_SCHED_PG_GM16&utm_source=NBA.com&utm_medium=client_PM&utm_c
- ampaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM16\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollo
+ w this game on NBA.com: https://www.nba.com/lakers/game/0022600457\n\nGet 
+ Tickets: https://www.ticketmaster.com/event/2C00650CC34C0E11?brand=lakers&
+ artistid=805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM16&utm_source=NBA.com&utm
+ _medium=client_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM16\n
 LOCATION:Crypto.com Arena - Los Angeles\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7204,16 +7218,17 @@ BEGIN:VEVENT
 SUMMARY:Houston Rockets @ Los Angeles Lakers
 DTSTART:20261230T033000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600470
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600470?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- NB
- C\n- Peacock\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow thi
- s game on NBA.com: https://www.nba.com/lakers/game/0022600470\n\nGet Ticke
- ts: https://www.ticketmaster.com/event/2C00650CC3520E13?brand=lakers&artis
- tid=805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM17&utm_source=NBA.com&utm_medi
- um=client_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM17\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- NBC\n- Peacock\n\nListen to This Game:\n- ESPN LA 710
+ /980 KFWB\n\nFollow this game on NBA.com: https://www.nba.com/lakers/game/
+ 0022600470\n\nGet Tickets: https://www.ticketmaster.com/event/2C00650CC352
+ 0E13?brand=lakers&artistid=805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM17&utm_
+ source=NBA.com&utm_medium=client_PM&utm_campaign=NBA_TEAM_LAL&utm_content=
+ SCHED_PG_GM17\n
 LOCATION:Crypto.com Arena - Los Angeles\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7222,13 +7237,13 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ New Orleans Pelicans
 DTSTART:20270101T010000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600483
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600483?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n\nLi
- sten to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on NBA.com:
-  https://www.nba.com/lakers/game/0022600483\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollo
+ w this game on NBA.com: https://www.nba.com/lakers/game/0022600483\n
 LOCATION:Smoothie King Center - New Orleans\, LA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7237,13 +7252,14 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Chicago Bulls
 DTSTART:20270103T010000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600497
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600497?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- Ch
- icago Sports Network\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFo
- llow this game on NBA.com: https://www.nba.com/lakers/game/0022600497\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- Chicago Sports Network\n\nListen to This Game:\n- ESP
+ N LA 710/980 KFWB\n\nFollow this game on NBA.com: https://www.nba.com/lake
+ rs/game/0022600497\n
 LOCATION:United Center - Chicago\, IL
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7252,13 +7268,13 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Toronto Raptors
 DTSTART:20270104T000000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600505
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600505?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n\nLi
- sten to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on NBA.com:
-  https://www.nba.com/lakers/game/0022600505\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollo
+ w this game on NBA.com: https://www.nba.com/lakers/game/0022600505\n
 LOCATION:Scotiabank Arena - Toronto\, ON
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7267,13 +7283,13 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Washington Wizards
 DTSTART:20270106T000000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600519
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600519?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n\nLi
- sten to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on NBA.com:
-  https://www.nba.com/lakers/game/0022600519\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollo
+ w this game on NBA.com: https://www.nba.com/lakers/game/0022600519\n
 LOCATION:Capital One Arena - Washington\, DC
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7282,16 +7298,17 @@ BEGIN:VEVENT
 SUMMARY:Boston Celtics @ Los Angeles Lakers
 DTSTART:20270108T030000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600540
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600540?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- Pr
- ime Video\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this g
- ame on NBA.com: https://www.nba.com/lakers/game/0022600540\n\nGet Tickets:
-  https://www.ticketmaster.com/event/2C00650CC26E0D94?brand=lakers&artistid
- =805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM18&utm_source=NBA.com&utm_medium=
- client_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM18\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- Prime Video\n\nListen to This Game:\n- ESPN LA 710/98
+ 0 KFWB\n\nFollow this game on NBA.com: https://www.nba.com/lakers/game/002
+ 2600540\n\nGet Tickets: https://www.ticketmaster.com/event/2C00650CC26E0D9
+ 4?brand=lakers&artistid=805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM18&utm_sou
+ rce=NBA.com&utm_medium=client_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCH
+ ED_PG_GM18\n
 LOCATION:Crypto.com Arena - Los Angeles\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7300,16 +7317,16 @@ BEGIN:VEVENT
 SUMMARY:Detroit Pistons @ Los Angeles Lakers
 DTSTART:20270109T030000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600548
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600548?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n\nLi
- sten to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on NBA.com:
-  https://www.nba.com/lakers/game/0022600548\n\nGet Tickets: https://www.ti
- cketmaster.com/event/2C00650CC2740D98?brand=lakers&artistid=805962&wt.mc_i
- d=NBA_TEAM_LAL_SCHED_PG_GM19&utm_source=NBA.com&utm_medium=client_PM&utm_c
- ampaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM19\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollo
+ w this game on NBA.com: https://www.nba.com/lakers/game/0022600548\n\nGet 
+ Tickets: https://www.ticketmaster.com/event/2C00650CC2740D98?brand=lakers&
+ artistid=805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM19&utm_source=NBA.com&utm
+ _medium=client_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM19\n
 LOCATION:Crypto.com Arena - Los Angeles\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7318,14 +7335,14 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ LA Clippers
 DTSTART:20270112T030000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600569
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600569?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- Pe
- acock\n- NBC Sports Network\n\nListen to This Game:\n- ESPN LA 710/980 KFW
- B\n\nFollow this game on NBA.com: https://www.nba.com/lakers/game/00226005
- 69\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- Peacock\n- NBC Sports Network\n\nListen to This Game:
+ \n- ESPN LA 710/980 KFWB\n\nFollow this game on NBA.com: https://www.nba.c
+ om/lakers/game/0022600569\n
 LOCATION:Intuit Dome - Inglewood\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7334,14 +7351,14 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Portland Trail Blazers
 DTSTART:20270114T030000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600584
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600584?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- KU
- NP\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n- Rip City Radio 620\n
- \nFollow this game on NBA.com: https://www.nba.com/lakers/game/0022600584
- \n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- KUNP\n- BlazerVision\n\nListen to This Game:\n- ESPN 
+ LA 710/980 KFWB\n- Rip City Radio 620\n\nFollow this game on NBA.com: http
+ s://www.nba.com/lakers/game/0022600584\n
 LOCATION:Moda Center - Portland\, OR
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7350,16 +7367,17 @@ BEGIN:VEVENT
 SUMMARY:Orlando Magic @ Los Angeles Lakers
 DTSTART:20270115T030000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600591
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600591?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- NB
- A TV\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game o
- n NBA.com: https://www.nba.com/lakers/game/0022600591\n\nGet Tickets: http
- s://www.ticketmaster.com/event/2C00650CC2790DA0?brand=lakers&artistid=8059
- 62&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM20&utm_source=NBA.com&utm_medium=clien
- t_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM20\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- NBA TV\n\nListen to This Game:\n- ESPN LA 710/980 KFW
+ B\n\nFollow this game on NBA.com: https://www.nba.com/lakers/game/00226005
+ 91\n\nGet Tickets: https://www.ticketmaster.com/event/2C00650CC2790DA0?bra
+ nd=lakers&artistid=805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM20&utm_source=N
+ BA.com&utm_medium=client_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG
+ _GM20\n
 LOCATION:Crypto.com Arena - Los Angeles\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7368,16 +7386,16 @@ BEGIN:VEVENT
 SUMMARY:Milwaukee Bucks @ Los Angeles Lakers
 DTSTART:20270118T020000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600613
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600613?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n\nLi
- sten to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on NBA.com:
-  https://www.nba.com/lakers/game/0022600613\n\nGet Tickets: https://www.ti
- cketmaster.com/event/2C00650CC27E0DA3?brand=lakers&artistid=805962&wt.mc_i
- d=NBA_TEAM_LAL_SCHED_PG_GM21&utm_source=NBA.com&utm_medium=client_PM&utm_c
- ampaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM21\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollo
+ w this game on NBA.com: https://www.nba.com/lakers/game/0022600613\n\nGet 
+ Tickets: https://www.ticketmaster.com/event/2C00650CC27E0DA3?brand=lakers&
+ artistid=805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM21&utm_source=NBA.com&utm
+ _medium=client_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM21\n
 LOCATION:Crypto.com Arena - Los Angeles\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7386,13 +7404,14 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Sacramento Kings
 DTSTART:20270120T030000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600623
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600623?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- NB
- CSCA\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game o
- n NBA.com: https://www.nba.com/lakers/game/0022600623\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- NBCSCA\n\nListen to This Game:\n- ESPN LA 710/980 KFW
+ B\n\nFollow this game on NBA.com: https://www.nba.com/lakers/game/00226006
+ 23\n
 LOCATION:Golden 1 Center - Sacramento\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7401,7 +7420,7 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Golden State Warriors
 DTSTART:20270122T030000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600637
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600637?p
@@ -7416,16 +7435,17 @@ BEGIN:VEVENT
 SUMMARY:Sacramento Kings @ Los Angeles Lakers
 DTSTART:20270123T030000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600647
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600647?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- NB
- CSCA\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game o
- n NBA.com: https://www.nba.com/lakers/game/0022600647\n\nGet Tickets: http
- s://www.ticketmaster.com/event/2C00650CC2840DA5?brand=lakers&artistid=8059
- 62&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM22&utm_source=NBA.com&utm_medium=clien
- t_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM22\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- NBCSCA\n\nListen to This Game:\n- ESPN LA 710/980 KFW
+ B\n\nFollow this game on NBA.com: https://www.nba.com/lakers/game/00226006
+ 47\n\nGet Tickets: https://www.ticketmaster.com/event/2C00650CC2840DA5?bra
+ nd=lakers&artistid=805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM22&utm_source=N
+ BA.com&utm_medium=client_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG
+ _GM22\n
 LOCATION:Crypto.com Arena - Los Angeles\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7434,16 +7454,16 @@ BEGIN:VEVENT
 SUMMARY:Washington Wizards @ Los Angeles Lakers
 DTSTART:20270124T210000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600657
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600657?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n\nLi
- sten to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on NBA.com:
-  https://www.nba.com/lakers/game/0022600657\n\nGet Tickets: https://www.ti
- cketmaster.com/event/2C00650CC2890DA7?brand=lakers&artistid=805962&wt.mc_i
- d=NBA_TEAM_LAL_SCHED_PG_GM23&utm_source=NBA.com&utm_medium=client_PM&utm_c
- ampaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM23\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollo
+ w this game on NBA.com: https://www.nba.com/lakers/game/0022600657\n\nGet 
+ Tickets: https://www.ticketmaster.com/event/2C00650CC2890DA7?brand=lakers&
+ artistid=805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM23&utm_source=NBA.com&utm
+ _medium=client_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM23\n
 LOCATION:Crypto.com Arena - Los Angeles\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7452,16 +7472,17 @@ BEGIN:VEVENT
 SUMMARY:Oklahoma City Thunder @ Los Angeles Lakers
 DTSTART:20270127T040000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600676
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600676?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- NB
- C\n- Peacock\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow thi
- s game on NBA.com: https://www.nba.com/lakers/game/0022600676\n\nGet Ticke
- ts: https://www.ticketmaster.com/event/2C00650CC28F0DAA?brand=lakers&artis
- tid=805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM24&utm_source=NBA.com&utm_medi
- um=client_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM24\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- NBC\n- Peacock\n- KSBI OKC\n- Thunder+\n\nListen to T
+ his Game:\n- ESPN LA 710/980 KFWB\n- WWLS 98.1FM OKC\n\nFollow this game o
+ n NBA.com: https://www.nba.com/lakers/game/0022600676\n\nGet Tickets: http
+ s://www.ticketmaster.com/event/2C00650CC28F0DAA?brand=lakers&artistid=8059
+ 62&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM24&utm_source=NBA.com&utm_medium=clien
+ t_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM24\n
 LOCATION:Crypto.com Arena - Los Angeles\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7470,13 +7491,13 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Indiana Pacers
 DTSTART:20270129T000000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600686
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600686?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n\nLi
- sten to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on NBA.com:
-  https://www.nba.com/lakers/game/0022600686\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollo
+ w this game on NBA.com: https://www.nba.com/lakers/game/0022600686\n
 LOCATION:Gainbridge Fieldhouse - Indianapolis\, IN
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7485,7 +7506,7 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ New York Knicks
 DTSTART:20270131T013000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600706
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600706?p
@@ -7500,13 +7521,13 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Charlotte Hornets
 DTSTART:20270201T000000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600713
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600713?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n\nLi
- sten to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on NBA.com:
-  https://www.nba.com/lakers/game/0022600713\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollo
+ w this game on NBA.com: https://www.nba.com/lakers/game/0022600713\n
 LOCATION:Spectrum Center - Charlotte\, NC
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7515,7 +7536,7 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Boston Celtics
 DTSTART:20270203T010000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600726
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600726?p
@@ -7530,13 +7551,14 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Brooklyn Nets
 DTSTART:20270205T003000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600738
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600738?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- DA
- ZN (YES)\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this ga
- me on NBA.com: https://www.nba.com/lakers/game/0022600738\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- DAZN (YES)\n\nListen to This Game:\n- ESPN LA 710/980
+  KFWB\n\nFollow this game on NBA.com: https://www.nba.com/lakers/game/0022
+ 600738\n
 LOCATION:Barclays Center - Brooklyn\, NY
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7545,7 +7567,7 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ San Antonio Spurs
 DTSTART:20270207T013000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600760
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600760?p
@@ -7560,14 +7582,14 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Phoenix Suns
 DTSTART:20270209T023000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600776
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600776?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- Pe
- acock\n- NBC Sports Network\n\nListen to This Game:\n- ESPN LA 710/980 KFW
- B\n\nFollow this game on NBA.com: https://www.nba.com/lakers/game/00226007
- 76\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- Peacock\n- NBC Sports Network\n\nListen to This Game:
+ \n- ESPN LA 710/980 KFWB\n- AZ Sports 98.7 FM / S: KSUN 1400AM\n\nFollow t
+ his game on NBA.com: https://www.nba.com/lakers/game/0022600776\n
 LOCATION:Mortgage Matchup Center - Phoenix\, AZ
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7576,16 +7598,17 @@ BEGIN:VEVENT
 SUMMARY:LA Clippers @ Los Angeles Lakers
 DTSTART:20270211T030000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600793
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600793?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- ES
- PN\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on 
- NBA.com: https://www.nba.com/lakers/game/0022600793\n\nGet Tickets: https:
- //www.ticketmaster.com/event/2C00650CC2990DAC?brand=lakers&artistid=805962
- &wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM25&utm_source=NBA.com&utm_medium=client_
- PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM25\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- ESPN\n\nListen to This Game:\n- ESPN LA 710/980 KFWB
+ \n\nFollow this game on NBA.com: https://www.nba.com/lakers/game/002260079
+ 3\n\nGet Tickets: https://www.ticketmaster.com/event/2C00650CC2990DAC?bran
+ d=lakers&artistid=805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM25&utm_source=NB
+ A.com&utm_medium=client_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_
+ GM25\n
 LOCATION:Crypto.com Arena - Los Angeles\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7594,17 +7617,17 @@ BEGIN:VEVENT
 SUMMARY:Denver Nuggets @ Los Angeles Lakers
 DTSTART:20270213T033000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600808
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600808?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- ES
- PN\n- Altitude/Altitude+\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n
- \nFollow this game on NBA.com: https://www.nba.com/lakers/game/0022600808
- \n\nGet Tickets: https://www.ticketmaster.com/event/2C00650CC29E0DAE?brand
- =lakers&artistid=805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM26&utm_source=NBA
- .com&utm_medium=client_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_G
- M26\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- ESPN\n- Altitude/Altitude+\n\nListen to This Game:\n-
+  ESPN LA 710/980 KFWB\n\nFollow this game on NBA.com: https://www.nba.com/
+ lakers/game/0022600808\n\nGet Tickets: https://www.ticketmaster.com/event/
+ 2C00650CC29E0DAE?brand=lakers&artistid=805962&wt.mc_id=NBA_TEAM_LAL_SCHED_
+ PG_GM26&utm_source=NBA.com&utm_medium=client_PM&utm_campaign=NBA_TEAM_LAL&
+ utm_content=SCHED_PG_GM26\n
 LOCATION:Crypto.com Arena - Los Angeles\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7613,16 +7636,17 @@ BEGIN:VEVENT
 SUMMARY:Chicago Bulls @ Los Angeles Lakers
 DTSTART:20270217T030000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600829
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600829?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- Ch
- icago Sports Network\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFo
- llow this game on NBA.com: https://www.nba.com/lakers/game/0022600829\n\nG
- et Tickets: https://www.ticketmaster.com/event/2C00650CC2A40DB0?brand=lake
- rs&artistid=805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM27&utm_source=NBA.com&
- utm_medium=client_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM27\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- Chicago Sports Network\n\nListen to This Game:\n- ESP
+ N LA 710/980 KFWB\n\nFollow this game on NBA.com: https://www.nba.com/lake
+ rs/game/0022600829\n\nGet Tickets: https://www.ticketmaster.com/event/2C00
+ 650CC2A40DB0?brand=lakers&artistid=805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_G
+ M27&utm_source=NBA.com&utm_medium=client_PM&utm_campaign=NBA_TEAM_LAL&utm_
+ content=SCHED_PG_GM27\n
 LOCATION:Crypto.com Arena - Los Angeles\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7631,16 +7655,17 @@ BEGIN:VEVENT
 SUMMARY:Houston Rockets @ Los Angeles Lakers
 DTSTART:20270219T030000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600847
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600847?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- Pr
- ime Video\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this g
- ame on NBA.com: https://www.nba.com/lakers/game/0022600847\n\nGet Tickets:
-  https://www.ticketmaster.com/event/2C00650CC2AA0DB2?brand=lakers&artistid
- =805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM28&utm_source=NBA.com&utm_medium=
- client_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM28\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- Prime Video\n\nListen to This Game:\n- ESPN LA 710/98
+ 0 KFWB\n\nFollow this game on NBA.com: https://www.nba.com/lakers/game/002
+ 2600847\n\nGet Tickets: https://www.ticketmaster.com/event/2C00650CC2AA0DB
+ 2?brand=lakers&artistid=805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM28&utm_sou
+ rce=NBA.com&utm_medium=client_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCH
+ ED_PG_GM28\n
 LOCATION:Crypto.com Arena - Los Angeles\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7649,14 +7674,14 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Denver Nuggets
 DTSTART:20270227T030000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600864
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600864?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- ES
- PN\n- Altitude/Altitude+\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n
- \nFollow this game on NBA.com: https://www.nba.com/lakers/game/0022600864
- \n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- ESPN\n- Altitude/Altitude+\n\nListen to This Game:\n-
+  ESPN LA 710/980 KFWB\n\nFollow this game on NBA.com: https://www.nba.com/
+ lakers/game/0022600864\n
 LOCATION:Ball Arena - Denver\, CO
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7665,7 +7690,7 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Dallas Mavericks
 DTSTART:20270228T203000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600873
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600873?p
@@ -7680,13 +7705,13 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Orlando Magic
 DTSTART:20270303T000000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600888
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600888?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n\nLi
- sten to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on NBA.com:
-  https://www.nba.com/lakers/game/0022600888\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollo
+ w this game on NBA.com: https://www.nba.com/lakers/game/0022600888\n
 LOCATION:Kia Center - Orlando\, FL
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7695,13 +7720,14 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Philadelphia 76ers
 DTSTART:20270305T000000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600905
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600905?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- Pr
- ime Video\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this g
- ame on NBA.com: https://www.nba.com/lakers/game/0022600905\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- Prime Video\n\nListen to This Game:\n- ESPN LA 710/98
+ 0 KFWB\n\nFollow this game on NBA.com: https://www.nba.com/lakers/game/002
+ 2600905\n
 LOCATION:Xfinity Mobile Arena - Philadelphia\, PA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7710,16 +7736,16 @@ BEGIN:VEVENT
 SUMMARY:Oklahoma City Thunder @ Los Angeles Lakers
 DTSTART:20270307T013000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600922
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600922?p
  artnerRef=Lakers&platform=web&surface=schedule\n- ABC\n\nListen to This Ga
- me:\n- ESPN LA 710/980 KFWB\n\nFollow this game on NBA.com: https://www.nb
- a.com/lakers/game/0022600922\n\nGet Tickets: https://www.ticketmaster.com/
- event/2C00650CC2AF0DB6?brand=lakers&artistid=805962&wt.mc_id=NBA_TEAM_LAL_
- SCHED_PG_GM29&utm_source=NBA.com&utm_medium=client_PM&utm_campaign=NBA_TEA
- M_LAL&utm_content=SCHED_PG_GM29\n
+ me:\n- ESPN LA 710/980 KFWB\n- WWLS 98.1FM OKC\n\nFollow this game on NBA.
+ com: https://www.nba.com/lakers/game/0022600922\n\nGet Tickets: https://ww
+ w.ticketmaster.com/event/2C00650CC2AF0DB6?brand=lakers&artistid=805962&wt.
+ mc_id=NBA_TEAM_LAL_SCHED_PG_GM29&utm_source=NBA.com&utm_medium=client_PM&u
+ tm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM29\n
 LOCATION:Crypto.com Arena - Los Angeles\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7728,16 +7754,17 @@ BEGIN:VEVENT
 SUMMARY:Brooklyn Nets @ Los Angeles Lakers
 DTSTART:20270308T033000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600929
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600929?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- DA
- ZN (YES)\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this ga
- me on NBA.com: https://www.nba.com/lakers/game/0022600929\n\nGet Tickets: 
- https://www.ticketmaster.com/event/2C00650CC2B40DB8?brand=lakers&artistid=
- 805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM30&utm_source=NBA.com&utm_medium=c
- lient_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM30\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- DAZN (YES)\n\nListen to This Game:\n- ESPN LA 710/980
+  KFWB\n\nFollow this game on NBA.com: https://www.nba.com/lakers/game/0022
+ 600929\n\nGet Tickets: https://www.ticketmaster.com/event/2C00650CC2B40DB8
+ ?brand=lakers&artistid=805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM30&utm_sour
+ ce=NBA.com&utm_medium=client_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHE
+ D_PG_GM30\n
 LOCATION:Crypto.com Arena - Los Angeles\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7746,7 +7773,7 @@ BEGIN:VEVENT
 SUMMARY:New York Knicks @ Los Angeles Lakers
 DTSTART:20270312T030000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600960
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600960?p
@@ -7764,16 +7791,16 @@ BEGIN:VEVENT
 SUMMARY:Cleveland Cavaliers @ Los Angeles Lakers
 DTSTART:20270313T030000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600967
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600967?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n\nLi
- sten to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on NBA.com:
-  https://www.nba.com/lakers/game/0022600967\n\nGet Tickets: https://www.ti
- cketmaster.com/event/2C00650CC2BF0DBC?brand=lakers&artistid=805962&wt.mc_i
- d=NBA_TEAM_LAL_SCHED_PG_GM32&utm_source=NBA.com&utm_medium=client_PM&utm_c
- ampaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM32\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollo
+ w this game on NBA.com: https://www.nba.com/lakers/game/0022600967\n\nGet 
+ Tickets: https://www.ticketmaster.com/event/2C00650CC2BF0DBC?brand=lakers&
+ artistid=805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM32&utm_source=NBA.com&utm
+ _medium=client_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM32\n
 LOCATION:Crypto.com Arena - Los Angeles\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7782,7 +7809,7 @@ BEGIN:VEVENT
 SUMMARY:Golden State Warriors @ Los Angeles Lakers
 DTSTART:20270315T020000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600982
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600982?p
@@ -7800,14 +7827,14 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Portland Trail Blazers
 DTSTART:20270317T020000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022600996
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022600996?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- KU
- NP\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n- Rip City Radio 620\n
- \nFollow this game on NBA.com: https://www.nba.com/lakers/game/0022600996
- \n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- KUNP\n- BlazerVision\n\nListen to This Game:\n- ESPN 
+ LA 710/980 KFWB\n- Rip City Radio 620\n\nFollow this game on NBA.com: http
+ s://www.nba.com/lakers/game/0022600996\n
 LOCATION:Moda Center - Portland\, OR
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7816,16 +7843,17 @@ BEGIN:VEVENT
 SUMMARY:Phoenix Suns @ Los Angeles Lakers
 DTSTART:20270318T020000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022601004
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022601004?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- ES
- PN\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on 
- NBA.com: https://www.nba.com/lakers/game/0022601004\n\nGet Tickets: https:
- //www.ticketmaster.com/event/2C00650CC2CA0DC6?brand=lakers&artistid=805962
- &wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM34&utm_source=NBA.com&utm_medium=client_
- PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM34\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- ESPN\n- KTVK/KPHE/AZFS App\n- Suns+\n\nListen to This
+  Game:\n- ESPN LA 710/980 KFWB\n- AZ Sports 98.7 FM / S: KSUN 1400AM\n\nFo
+ llow this game on NBA.com: https://www.nba.com/lakers/game/0022601004\n\nG
+ et Tickets: https://www.ticketmaster.com/event/2C00650CC2CA0DC6?brand=lake
+ rs&artistid=805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM34&utm_source=NBA.com&
+ utm_medium=client_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM34\n
 LOCATION:Crypto.com Arena - Los Angeles\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7834,16 +7862,16 @@ BEGIN:VEVENT
 SUMMARY:Atlanta Hawks @ Los Angeles Lakers
 DTSTART:20270320T020000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022601019
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022601019?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n\nLi
- sten to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on NBA.com:
-  https://www.nba.com/lakers/game/0022601019\n\nGet Tickets: https://www.ti
- cketmaster.com/event/2C00650CC2CF0DC9?brand=lakers&artistid=805962&wt.mc_i
- d=NBA_TEAM_LAL_SCHED_PG_GM35&utm_source=NBA.com&utm_medium=client_PM&utm_c
- ampaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM35\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollo
+ w this game on NBA.com: https://www.nba.com/lakers/game/0022601019\n\nGet 
+ Tickets: https://www.ticketmaster.com/event/2C00650CC2CF0DC9?brand=lakers&
+ artistid=805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM35&utm_source=NBA.com&utm
+ _medium=client_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM35\n
 LOCATION:Crypto.com Arena - Los Angeles\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7852,7 +7880,7 @@ BEGIN:VEVENT
 SUMMARY:Dallas Mavericks @ Los Angeles Lakers
 DTSTART:20270322T020000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022601034
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022601034?p
@@ -7870,14 +7898,14 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Miami Heat
 DTSTART:20270324T000000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022601045
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022601045?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- NB
- C\n- Peacock\n- WPLG Local 10\n\nListen to This Game:\n- ESPN LA 710/980 K
- FWB\n- FM 104.3 WQAM / S: WAQI 710\n\nFollow this game on NBA.com: https:/
- /www.nba.com/lakers/game/0022601045\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- NBC\n- Peacock\n- WPLG Local 10\n\nListen to This Gam
+ e:\n- ESPN LA 710/980 KFWB\n- FM 104.3 WQAM / S: WAQI 710\n\nFollow this g
+ ame on NBA.com: https://www.nba.com/lakers/game/0022601045\n
 LOCATION:Kaseya Center - Miami\, FL
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7886,13 +7914,13 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Cleveland Cavaliers
 DTSTART:20270325T230000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022601060
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022601060?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n\nLi
- sten to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on NBA.com:
-  https://www.nba.com/lakers/game/0022601060\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollo
+ w this game on NBA.com: https://www.nba.com/lakers/game/0022601060\n
 LOCATION:Rocket Arena - Cleveland\, OH
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7901,13 +7929,14 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Houston Rockets
 DTSTART:20270328T190000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022601082
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022601082?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- ES
- PN\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on 
- NBA.com: https://www.nba.com/lakers/game/0022601082\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- ESPN\n\nListen to This Game:\n- ESPN LA 710/980 KFWB
+ \n\nFollow this game on NBA.com: https://www.nba.com/lakers/game/002260108
+ 2\n
 LOCATION:Toyota Center - Houston\, TX
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7916,13 +7945,13 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Memphis Grizzlies
 DTSTART:20270331T000000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022601100
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022601100?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n\nLi
- sten to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on NBA.com:
-  https://www.nba.com/lakers/game/0022601100\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollo
+ w this game on NBA.com: https://www.nba.com/lakers/game/0022601100\n
 LOCATION:FedExForum - Memphis\, TN
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7931,13 +7960,14 @@ BEGIN:VEVENT
 SUMMARY:Los Angeles Lakers @ Oklahoma City Thunder
 DTSTART:20270402T013000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022601116
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022601116?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- Pr
- ime Video\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this g
- ame on NBA.com: https://www.nba.com/lakers/game/0022601116\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- Prime Video\n\nListen to This Game:\n- ESPN LA 710/98
+ 0 KFWB\n- WWLS/WKY\n\nFollow this game on NBA.com: https://www.nba.com/lak
+ ers/game/0022601116\n
 LOCATION:Paycom Center - Oklahoma City\, OK
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7946,7 +7976,7 @@ BEGIN:VEVENT
 SUMMARY:San Antonio Spurs @ Los Angeles Lakers
 DTSTART:20270405T020000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022601143
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022601143?p
@@ -7964,16 +7994,16 @@ BEGIN:VEVENT
 SUMMARY:Dallas Mavericks @ Los Angeles Lakers
 DTSTART:20270407T020000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022601155
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022601155?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n\nLi
- sten to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on NBA.com:
-  https://www.nba.com/lakers/game/0022601155\n\nGet Tickets: https://www.ti
- cketmaster.com/event/2C00650CC2DF0DE0?brand=lakers&artistid=805962&wt.mc_i
- d=NBA_TEAM_LAL_SCHED_PG_GM38&utm_source=NBA.com&utm_medium=client_PM&utm_c
- ampaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM38\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollo
+ w this game on NBA.com: https://www.nba.com/lakers/game/0022601155\n\nGet 
+ Tickets: https://www.ticketmaster.com/event/2C00650CC2DF0DE0?brand=lakers&
+ artistid=805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM38&utm_source=NBA.com&utm
+ _medium=client_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM38\n
 LOCATION:Crypto.com Arena - Los Angeles\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -7982,16 +8012,17 @@ BEGIN:VEVENT
 SUMMARY:Minnesota Timberwolves @ Los Angeles Lakers
 DTSTART:20270408T020000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022601165
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022601165?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n- ES
- PN\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on 
- NBA.com: https://www.nba.com/lakers/game/0022601165\n\nGet Tickets: https:
- //www.ticketmaster.com/event/2C00650CC2E50DE2?brand=lakers&artistid=805962
- &wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM39&utm_source=NBA.com&utm_medium=client_
- PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM39\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- ESPN\n\nListen to This Game:\n- ESPN LA 710/980 KFWB
+ \n\nFollow this game on NBA.com: https://www.nba.com/lakers/game/002260116
+ 5\n\nGet Tickets: https://www.ticketmaster.com/event/2C00650CC2E50DE2?bran
+ d=lakers&artistid=805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM39&utm_source=NB
+ A.com&utm_medium=client_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_
+ GM39\n
 LOCATION:Crypto.com Arena - Los Angeles\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -8000,16 +8031,16 @@ BEGIN:VEVENT
 SUMMARY:Minnesota Timberwolves @ Los Angeles Lakers
 DTSTART:20270410T020000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022601183
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022601183?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n\nLi
- sten to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on NBA.com:
-  https://www.nba.com/lakers/game/0022601183\n\nGet Tickets: https://www.ti
- cketmaster.com/event/2C00650CC2EA0DE6?brand=lakers&artistid=805962&wt.mc_i
- d=NBA_TEAM_LAL_SCHED_PG_GM40&utm_source=NBA.com&utm_medium=client_PM&utm_c
- ampaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM40\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n\nListen to This Game:\n- ESPN LA 710/980 KFWB\n\nFollo
+ w this game on NBA.com: https://www.nba.com/lakers/game/0022601183\n\nGet 
+ Tickets: https://www.ticketmaster.com/event/2C00650CC2EA0DE6?brand=lakers&
+ artistid=805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM40&utm_source=NBA.com&utm
+ _medium=client_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM40\n
 LOCATION:Crypto.com Arena - Los Angeles\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -8018,16 +8049,17 @@ BEGIN:VEVENT
 SUMMARY:Phoenix Suns @ Los Angeles Lakers
 DTSTART:20270412T003000Z
 DURATION:PT3H
-DTSTAMP:20260929T213404Z
+DTSTAMP:20261005T175404Z
 UID:nba@16106127470022601200
 DESCRIPTION:Los Angeles Lakers Schedule\n===========================\n\nWa
  tch This Game: https://www.nba.com/how-to-watch-game-redirect/0022601200?p
- artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet\n\nLi
- sten to This Game:\n- ESPN LA 710/980 KFWB\n\nFollow this game on NBA.com:
-  https://www.nba.com/lakers/game/0022601200\n\nGet Tickets: https://www.ti
- cketmaster.com/event/2C00650CC2EF0DE8?brand=lakers&artistid=805962&wt.mc_i
- d=NBA_TEAM_LAL_SCHED_PG_GM41&utm_source=NBA.com&utm_medium=client_PM&utm_c
- ampaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM41\n
+ artnerRef=Lakers&platform=web&surface=schedule\n- Spectrum SportsNet+\n- S
+ pectrum SportsNet\n- KTVK/KPHE/AZFS App\n- Suns+\n\nListen to This Game:\n
+ - ESPN LA 710/980 KFWB\n- AZ Sports 98.7 FM / S: KSUN 1400AM\n\nFollow thi
+ s game on NBA.com: https://www.nba.com/lakers/game/0022601200\n\nGet Ticke
+ ts: https://www.ticketmaster.com/event/2C00650CC2EF0DE8?brand=lakers&artis
+ tid=805962&wt.mc_id=NBA_TEAM_LAL_SCHED_PG_GM41&utm_source=NBA.com&utm_medi
+ um=client_PM&utm_campaign=NBA_TEAM_LAL&utm_content=SCHED_PG_GM41\n
 LOCATION:Crypto.com Arena - Los Angeles\, CA
 TRANSP:TRANSPARENT
 URL:https://www.nba.com/lakers
@@ -8036,12 +8068,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Madrid - Leganés  (4-1)
 DTSTART:20260728T160000Z
 DTEND:20260728T180000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5958714-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5958714\nClub Friendlies
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5958714
 BEGIN:VALARM
@@ -8056,12 +8088,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Madrid - Fiorentina  (2-2)
 DTSTART:20260801T160000Z
 DTEND:20260801T180000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5909892-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5909892\nClub Friendlies
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Sportpark Klagenfurt\, Siebenhügelstraße 105\, Klagenfurt am W
  örthersee\, AUT
 TRANSP:TRANSPARENT
@@ -8078,12 +8110,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Ferencváros - Real Madrid  (1-2)
 DTSTART:20260808T170000Z
 DTEND:20260808T190000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5970397-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5970397\nClub Friendlies
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Groupama Aréna\, Üllői út 129\, IX. ker.\, Budapest\, HUN
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5970397
@@ -8099,12 +8131,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Deportivo A Coruña - Real Madrid  (0-1)
 DTSTART:20260812T190000Z
 DTEND:20260812T210000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5962500-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5962500\nClub Friendlies
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Estadio Abanca-Riazor\, Calle Manuel Murguía\, A Coruña (La Cor
  uña)\, ESP
 TRANSP:TRANSPARENT
@@ -8121,12 +8153,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Schalke 04 - Real Madrid  (0-3)
 DTSTART:20260816T150000Z
 DTEND:20260816T170000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5979020-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5979020\nClub Friendlies
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:VELTINS-Arena\, Arenaring 1\, Gelsenkirchen\, GER
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5979020
@@ -8142,12 +8174,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Espanyol - Real Madrid  (1-2)
 DTSTART:20260822T193000Z
 DTEND:20260822T213000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868025-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868025\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:RCDE Stadium\, Avenida Baix Llobregat 100\, Cornella de Llobregat
  \, ESP
 TRANSP:TRANSPARENT
@@ -8164,12 +8196,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Madrid - Real Sociedad  (4-1)
 DTSTART:20260826T190000Z
 DTEND:20260826T210000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868018-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868018\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Estadio Bernabéu\, Avenida de Concha Espina 1\, Chamartín\, Mad
  rid\, ESP
 TRANSP:TRANSPARENT
@@ -8186,12 +8218,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Madrid - Málaga  (4-0)
 DTSTART:20260830T150000Z
 DTEND:20260830T170000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868038-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868038\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Estadio Bernabéu\, Avenida de Concha Espina 1\, Chamartín\, Mad
  rid\, ESP
 TRANSP:TRANSPARENT
@@ -8208,12 +8240,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Betis - Real Madrid  (1-0)
 DTSTART:20260904T190000Z
 DTEND:20260904T210000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868043-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868043\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Estadio La Cartuja de Sevilla\, Edificio Suroeste\, Puerta E\, Se
  villa\, ESP
 TRANSP:TRANSPARENT
@@ -8230,12 +8262,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Madrid - Inter  (2-1)
 DTSTART:20260908T190000Z
 DTEND:20260908T210000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:6106242-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/6106242\nChampions League
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Estadio Bernabéu\, Avenida de Concha Espina 1\, Chamartín\, Mad
  rid\, ESP
 TRANSP:TRANSPARENT
@@ -8252,12 +8284,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Madrid - Rayo Vallecano  (4-1)
 DTSTART:20260912T190000Z
 DTEND:20260912T210000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868057-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868057\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Estadio Bernabéu\, Avenida de Concha Espina 1\, Chamartín\, Mad
  rid\, ESP
 TRANSP:TRANSPARENT
@@ -8274,12 +8306,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Elche - Real Madrid  (2-3)
 DTSTART:20260915T193000Z
 DTEND:20260915T213000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868065-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868065\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Estadio Manuel Martínez Valero\, Avenida Manuel Martínez Valero
   3\, Elche\, ESP
 TRANSP:TRANSPARENT
@@ -8296,12 +8328,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Atlético Madrid - Real Madrid  (2-1)
 DTSTART:20260920T141500Z
 DTEND:20260920T161500Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868072-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868072\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Riyadh Air Metropolitano\, Avenida de Luis Aragonés\, 4\, San Bl
  as-Canillejas\, Madrid\, ESP
 TRANSP:TRANSPARENT
@@ -8318,12 +8350,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Madrid - Villarreal
 DTSTART:20261010T190000Z
 DTEND:20261010T210000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868089-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868089\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Estadio Bernabéu\, Avenida de Concha Espina 1\, Chamartín\, Mad
  rid\, ESP
 TRANSP:TRANSPARENT
@@ -8340,12 +8372,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Roma - Real Madrid
 DTSTART:20261014T190000Z
 DTEND:20261014T210000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:6106274-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/6106274\nChampions League
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Stadio Olimpico\, Viale dei Gladiatori\, 2 / Via del Foro Italico
  \, Roma\, ITA
 TRANSP:TRANSPARENT
@@ -8362,12 +8394,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Madrid - Sevilla
 DTSTART:20261018T190000Z
 DTEND:20261018T210000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868098-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868098\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Estadio Bernabéu\, Avenida de Concha Espina 1\, Chamartín\, Mad
  rid\, ESP
 TRANSP:TRANSPARENT
@@ -8384,12 +8416,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Madrid - RB Leipzig
 DTSTART:20261021T190000Z
 DTEND:20261021T210000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:6106244-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/6106244\nChampions League
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Estadio Bernabéu\, Avenida de Concha Espina 1\, Chamartín\, Mad
  rid\, ESP
 TRANSP:TRANSPARENT
@@ -8406,12 +8438,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Barcelona - Real Madrid
 DTSTART:20261025T200000Z
 DTEND:20261025T220000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868105-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868105\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Spotify Camp Nou\, Carrer d'Arístides Maillol\, Barcelona\, ESP
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5868105
@@ -8427,12 +8459,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Racing Santander - Real Madrid
 DTSTART:20261101T151500Z
 DTEND:20261101T171500Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868118-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868118\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Campos de Sport de El Sardinero\, Calle del Real Racing Club\, Sa
  ntander\, ESP
 TRANSP:TRANSPARENT
@@ -8449,12 +8481,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ AEK Athens - Real Madrid
 DTSTART:20261104T174500Z
 DTEND:20261104T194500Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:6106401-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/6106401\nChampions League
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:ALLWYN Arena\, Fokon 11\, Nea Filadelfia\, Athína (Athens)\, GRE
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/6106401
@@ -8470,12 +8502,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Valencia - Real Madrid
 DTSTART:20261108T140000Z
 DTEND:20261108T160000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868129-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868129\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Estadio Mestalla
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5868129
@@ -8491,12 +8523,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Madrid - Celta Vigo
 DTSTART:20261122T140000Z
 DTEND:20261122T160000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868139-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868139\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Estadio Bernabeu
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5868139
@@ -8512,12 +8544,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Madrid - PSV Eindhoven
 DTSTART:20261124T200000Z
 DTEND:20261124T220000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:6106243-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/6106243\nChampions League
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Estadio Bernabéu\, Avenida de Concha Espina 1\, Chamartín\, Mad
  rid\, ESP
 TRANSP:TRANSPARENT
@@ -8534,12 +8566,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Madrid - Deportivo Alavés
 DTSTART:20261129T140000Z
 DTEND:20261129T160000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868148-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868148\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Estadio Bernabeu
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5868148
@@ -8555,12 +8587,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Athletic Club - Real Madrid
 DTSTART:20261206T140000Z
 DTEND:20261206T160000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868152-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868152\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:San Mames
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5868152
@@ -8576,12 +8608,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Arsenal - Real Madrid
 DTSTART:20261209T200000Z
 DTEND:20261209T220000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:6106258-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/6106258\nChampions League
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Emirates Stadium
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/6106258
@@ -8597,12 +8629,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Madrid - Osasuna
 DTSTART:20261213T140000Z
 DTEND:20261213T160000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868168-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868168\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Estadio Bernabeu
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5868168
@@ -8618,12 +8650,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Deportivo A Coruña - Real Madrid
 DTSTART:20261220T140000Z
 DTEND:20261220T160000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868174-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868174\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Abanca-Riazor
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5868174
@@ -8639,12 +8671,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Madrid - Getafe
 DTSTART:20270103T140000Z
 DTEND:20270103T160000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868188-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868188\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Estadio Bernabeu
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5868188
@@ -8660,12 +8692,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Madrid - Levante
 DTSTART:20270110T140000Z
 DTEND:20270110T160000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868198-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868198\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Estadio Bernabeu
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5868198
@@ -8681,12 +8713,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Málaga - Real Madrid
 DTSTART:20270117T140000Z
 DTEND:20270117T160000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868207-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868207\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Estadio La Rosaleda
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5868207
@@ -8702,12 +8734,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Madrid - LASK
 DTSTART:20270119T200000Z
 DTEND:20270119T220000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:6106245-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/6106245\nChampions League
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Estadio Bernabeu
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/6106245
@@ -8723,12 +8755,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Madrid - Real Betis
 DTSTART:20270124T140000Z
 DTEND:20270124T160000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868218-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868218\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Estadio Bernabeu
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5868218
@@ -8744,12 +8776,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Shakhtar Donetsk - Real Madrid
 DTSTART:20270127T200000Z
 DTEND:20270127T220000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:6106334-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/6106334\nChampions League
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Stamford Bridge
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/6106334
@@ -8765,12 +8797,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Rayo Vallecano - Real Madrid
 DTSTART:20270131T140000Z
 DTEND:20270131T160000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868228-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868228\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Campo de Futbol de Vallecas
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5868228
@@ -8786,12 +8818,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Sociedad - Real Madrid
 DTSTART:20270203T190000Z
 DTEND:20270203T210000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:6019526-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/6019526\nSuper Cup
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Tupras Stadyumu
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/6019526
@@ -8807,12 +8839,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Sociedad - Real Madrid
 DTSTART:20270207T140000Z
 DTEND:20270207T160000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868239-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868239\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Reale Arena
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5868239
@@ -8828,12 +8860,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Madrid - Athletic Club
 DTSTART:20270214T140000Z
 DTEND:20270214T160000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868246-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868246\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Estadio Bernabeu
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5868246
@@ -8849,12 +8881,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Sevilla - Real Madrid
 DTSTART:20270221T140000Z
 DTEND:20270221T160000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868259-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868259\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Estadio R. Sanchez Pizjuan
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5868259
@@ -8870,12 +8902,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Madrid - Valencia
 DTSTART:20270228T140000Z
 DTEND:20270228T160000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868269-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868269\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Estadio Bernabeu
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5868269
@@ -8891,12 +8923,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Villarreal - Real Madrid
 DTSTART:20270307T140000Z
 DTEND:20270307T160000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868280-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868280\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Estadio de la Ceramica
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5868280
@@ -8912,12 +8944,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Madrid - Espanyol
 DTSTART:20270314T140000Z
 DTEND:20270314T160000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868290-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868290\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Estadio Bernabeu
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5868290
@@ -8933,12 +8965,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Celta Vigo - Real Madrid
 DTSTART:20270321T140000Z
 DTEND:20270321T160000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868292-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868292\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Abanca Balaidos
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5868292
@@ -8954,12 +8986,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Madrid - Atlético Madrid
 DTSTART:20270404T130000Z
 DTEND:20270404T150000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868309-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868309\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Estadio Bernabeu
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5868309
@@ -8975,12 +9007,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Osasuna - Real Madrid
 DTSTART:20270411T130000Z
 DTEND:20270411T150000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868315-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868315\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Estadio El Sadar
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5868315
@@ -8996,12 +9028,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Getafe - Real Madrid
 DTSTART:20270418T130000Z
 DTEND:20270418T150000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868327-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868327\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Coliseum
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5868327
@@ -9017,12 +9049,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Madrid - Elche
 DTSTART:20270421T130000Z
 DTEND:20270421T150000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868337-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868337\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Estadio Bernabeu
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5868337
@@ -9038,12 +9070,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Levante - Real Madrid
 DTSTART:20270502T130000Z
 DTEND:20270502T150000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868347-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868347\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Estadio Ciudad de Valencia
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5868347
@@ -9059,12 +9091,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Madrid - Barcelona
 DTSTART:20270509T130000Z
 DTEND:20270509T150000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868358-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868358\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Estadio Bernabeu
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5868358
@@ -9080,12 +9112,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Madrid - Racing Santander
 DTSTART:20270516T130000Z
 DTEND:20270516T150000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868368-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868368\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Estadio Bernabeu
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5868368
@@ -9101,12 +9133,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Deportivo Alavés - Real Madrid
 DTSTART:20270523T130000Z
 DTEND:20270523T150000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868371-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868371\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Estadio Mendizorroza
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5868371
@@ -9122,12 +9154,12 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Madrid - Deportivo A Coruña
 DTSTART:20270530T130000Z
 DTEND:20270530T150000Z
-DTSTAMP:20261006T050143Z
+DTSTAMP:20261006T173627Z
 UID:5868389-8633@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5868389\nLaLiga
-LAST-MODIFIED:20261006T050143Z
+LAST-MODIFIED:20261006T173627Z
 LOCATION:Estadio Bernabeu
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5868389
@@ -9143,13 +9175,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Hércules - Real Murcia  (1-2)
 DTSTART:20260829T193000Z
 DTEND:20260829T213000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883624-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883624\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883624
 BEGIN:VALARM
@@ -9164,13 +9196,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Murcia - CD Teruel  (4-0)
 DTSTART:20260906T161500Z
 DTEND:20260906T181500Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883632-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883632\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883632
 BEGIN:VALARM
@@ -9185,13 +9217,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Atlético Madrileño - Real Murcia  (4-0)
 DTSTART:20260913T183000Z
 DTEND:20260913T203000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883640-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883640\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883640
 BEGIN:VALARM
@@ -9206,13 +9238,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Murcia - CE Europa  (2-1)
 DTSTART:20260919T143000Z
 DTEND:20260919T163000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883653-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883653\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883653
 BEGIN:VALARM
@@ -9227,13 +9259,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Murcia - Gimnàstic  (2-0)
 DTSTART:20261004T100000Z
 DTEND:20261004T120000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883673-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883673\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883673
 BEGIN:VALARM
@@ -9248,13 +9280,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Cartagena - Real Murcia
 DTSTART:20261007T183000Z
 DTEND:20261007T203000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883662-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883662\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883662
 BEGIN:VALARM
@@ -9269,13 +9301,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Rayo Majadahonda - Real Murcia
 DTSTART:20261011T164500Z
 DTEND:20261011T184500Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883684-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883684\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883684
 BEGIN:VALARM
@@ -9290,13 +9322,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Murcia - Real Zaragoza
 DTSTART:20261018T161500Z
 DTEND:20261018T181500Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883694-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883694\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883694
 BEGIN:VALARM
@@ -9311,13 +9343,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Juventud Torremolinos CF - Real Murcia
 DTSTART:20261024T110000Z
 DTEND:20261024T130000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883706-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883706\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883706
 BEGIN:VALARM
@@ -9333,13 +9365,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Antequera - Real Murcia
 DTSTART:20261101T160000Z
 DTEND:20261101T180000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883708-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883708\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883708
 BEGIN:VALARM
@@ -9354,13 +9386,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Murcia - Algeciras
 DTSTART:20261108T160000Z
 DTEND:20261108T180000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883723-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883723\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883723
 BEGIN:VALARM
@@ -9375,13 +9407,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Murcia - Alcorcón
 DTSTART:20261115T160000Z
 DTEND:20261115T180000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883734-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883734\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883734
 BEGIN:VALARM
@@ -9396,13 +9428,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Madrid Castilla - Real Murcia
 DTSTART:20261122T160000Z
 DTEND:20261122T180000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883743-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883743\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883743
 BEGIN:VALARM
@@ -9417,13 +9449,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Murcia - Sant Andreu
 DTSTART:20261129T160000Z
 DTEND:20261129T180000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883754-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883754\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883754
 BEGIN:VALARM
@@ -9438,13 +9470,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ SD Huesca - Real Murcia
 DTSTART:20261206T160000Z
 DTEND:20261206T180000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883761-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883761\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883761
 BEGIN:VALARM
@@ -9459,13 +9491,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Murcia - Real Jaén
 DTSTART:20261213T160000Z
 DTEND:20261213T180000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883773-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883773\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883773
 BEGIN:VALARM
@@ -9480,13 +9512,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ UD Ibiza - Real Murcia
 DTSTART:20261220T160000Z
 DTEND:20261220T180000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883785-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883785\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883785
 BEGIN:VALARM
@@ -9501,13 +9533,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Murcia - Villarreal B
 DTSTART:20270103T160000Z
 DTEND:20270103T180000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883793-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883793\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883793
 BEGIN:VALARM
@@ -9522,13 +9554,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Murcia - CDA Águilas FC
 DTSTART:20270110T160000Z
 DTEND:20270110T180000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883803-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883803\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883803
 BEGIN:VALARM
@@ -9543,13 +9575,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Zaragoza - Real Murcia
 DTSTART:20270117T160000Z
 DTEND:20270117T180000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883817-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883817\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883817
 BEGIN:VALARM
@@ -9564,13 +9596,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Murcia - Atlético Madrileño
 DTSTART:20270124T160000Z
 DTEND:20270124T180000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883822-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883822\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883822
 BEGIN:VALARM
@@ -9585,13 +9617,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ CE Europa - Real Murcia
 DTSTART:20270131T160000Z
 DTEND:20270131T180000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883831-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883831\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883831
 BEGIN:VALARM
@@ -9606,13 +9638,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Murcia - Real Madrid Castilla
 DTSTART:20270206T160000Z
 DTEND:20270206T180000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883842-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883842\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883842
 BEGIN:VALARM
@@ -9627,13 +9659,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Murcia - Juventud Torremolinos CF
 DTSTART:20270214T160000Z
 DTEND:20270214T180000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883854-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883854\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883854
 BEGIN:VALARM
@@ -9649,13 +9681,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Algeciras - Real Murcia
 DTSTART:20270221T160000Z
 DTEND:20270221T180000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883859-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883859\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883859
 BEGIN:VALARM
@@ -9670,13 +9702,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Murcia - Cartagena
 DTSTART:20270228T160000Z
 DTEND:20270228T180000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883874-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883874\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883874
 BEGIN:VALARM
@@ -9691,13 +9723,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Sant Andreu - Real Murcia
 DTSTART:20270307T160000Z
 DTEND:20270307T180000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883884-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883884\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883884
 BEGIN:VALARM
@@ -9712,13 +9744,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Murcia - UD Ibiza
 DTSTART:20270314T160000Z
 DTEND:20270314T180000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883895-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883895\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883895
 BEGIN:VALARM
@@ -9733,13 +9765,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ CDA Águilas FC - Real Murcia
 DTSTART:20270321T160000Z
 DTEND:20270321T180000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883898-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883898\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883898
 BEGIN:VALARM
@@ -9754,13 +9786,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Murcia - Hércules
 DTSTART:20270328T150000Z
 DTEND:20270328T170000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883915-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883915\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883915
 BEGIN:VALARM
@@ -9775,13 +9807,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ CD Teruel - Real Murcia
 DTSTART:20270404T150000Z
 DTEND:20270404T170000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883924-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883924\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883924
 BEGIN:VALARM
@@ -9796,13 +9828,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Alcorcón - Real Murcia
 DTSTART:20270411T150000Z
 DTEND:20270411T170000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883929-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883929\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883929
 BEGIN:VALARM
@@ -9817,13 +9849,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Murcia - Antequera
 DTSTART:20270418T150000Z
 DTEND:20270418T170000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883941-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883941\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883941
 BEGIN:VALARM
@@ -9838,13 +9870,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Jaén - Real Murcia
 DTSTART:20270425T150000Z
 DTEND:20270425T170000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883954-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883954\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883954
 BEGIN:VALARM
@@ -9859,13 +9891,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Murcia - Rayo Majadahonda
 DTSTART:20270502T150000Z
 DTEND:20270502T170000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883962-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883962\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883962
 BEGIN:VALARM
@@ -9880,13 +9912,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Villarreal B - Real Murcia
 DTSTART:20270509T150000Z
 DTEND:20270509T170000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883977-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883977\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883977
 BEGIN:VALARM
@@ -9901,13 +9933,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Real Murcia - SD Huesca
 DTSTART:20270516T150000Z
 DTEND:20270516T170000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883982-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883982\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883982
 BEGIN:VALARM
@@ -9922,13 +9954,13 @@ BEGIN:VEVENT
 SUMMARY:⚽️ Gimnàstic - Real Murcia
 DTSTART:20270523T150000Z
 DTEND:20270523T170000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T180644Z
 UID:5883992-8392@fotmob.com
 SEQUENCE:0
 CLASS:PUBLIC
 DESCRIPTION:https://www.fotmob.com/match/5883992\nPrimera Federacion - Gro
  up 2
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T180644Z
 TRANSP:TRANSPARENT
 URL:https://www.fotmob.com/match/5883992
 BEGIN:VALARM
@@ -9942,10 +9974,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - Río Breogán
 DTSTART:20260829T180000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:null@realmadrid.com
 DESCRIPTION:Friendlies
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Pabellón Municipal de Deportes (Pontevedra)
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -9957,10 +9989,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - Kosner Baskonia Vitoria-Gasteiz
 DTSTART:20260905T180000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:null@realmadrid.com
 DESCRIPTION:Friendlies
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Palacio de los Deportes de León
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -9972,20 +10004,20 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 La Laguna Tenerife - Real Madrid
 DTSTART:20260911T180000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:null@realmadrid.com
 DESCRIPTION:Friendlies
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Pabellón Sergio Scariolo (Marbella)
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Unicaja - Real Madrid
 DTSTART:20260912T170000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:null@realmadrid.com
 DESCRIPTION:Friendlies
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Palacio José Mª Martín Carpena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -9997,80 +10029,80 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Dubai Basketball - Real Madrid
 DTSTART:20260918T170000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:2@realmadrid.com
 DESCRIPTION:EuroLeague Super Cup
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Desconocido/Unknown
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Olympiacos Piraeus - Real Madrid
 DTSTART:20260919T170000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:3@realmadrid.com
 DESCRIPTION:EuroLeague Super Cup
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Desconocido/Unknown
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Dubai Basketball - Real Madrid
 DTSTART:20260924T160000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:1@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Coca-Cola Arena
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - Unicaja
 DTSTART:20260927T170000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:9@realmadrid.com
 DESCRIPTION:Liga Endesa
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Movistar Arena
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Anadolu Efes Istanbul - Real Madrid
 DTSTART:20260929T170000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:12@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Sinan Erdem Arena
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Hapoel IBI Tel Aviv - Real Madrid
 DTSTART:20261001T160000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:21@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Shlomo Group Arena
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Monbus Obradoiro - Real Madrid
 DTSTART:20261004T103000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:15@realmadrid.com
 DESCRIPTION:Liga Endesa
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Multiusos Fontes do Sar
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - Partizan Mozzart Bet Belgrade
 DTSTART:20261008T184500Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:36@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Movistar Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10082,10 +10114,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - Kids and Us Manresa
 DTSTART:20261011T100000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:23@realmadrid.com
 DESCRIPTION:Liga Endesa
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Movistar Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10097,10 +10129,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Armani Olimpia Milan - Real Madrid
 DTSTART:20261013T183000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:44@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Mediolanum Forum di Assago
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10112,10 +10144,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - LDLC ASVEL Villeurbanne
 DTSTART:20261015T190000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:54@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Movistar Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10127,10 +10159,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - Surne Bilbao Basket
 DTSTART:20261018T103000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:33@realmadrid.com
 DESCRIPTION:Liga Endesa
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Movistar Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10142,10 +10174,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Maccabi Rapyd Tel Aviv - Real Madrid
 DTSTART:20261022T180500Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:63@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Menora Mivtachim Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10157,10 +10189,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 iLERNA Lleida - Real Madrid
 DTSTART:20261025T180000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:45@realmadrid.com
 DESCRIPTION:Liga Endesa
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Pabellón Barris Nord
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10172,10 +10204,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Kosner Baskonia Vitoria-Gasteiz - Real Madrid
 DTSTART:20261027T200000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:76@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Fernando Buesa Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10187,10 +10219,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - Fenerbahce Istanbul
 DTSTART:20261029T194500Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:83@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Movistar Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10202,10 +10234,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - Recoletas Salud San Pablo Burgos
 DTSTART:20261101T113000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:51@realmadrid.com
 DESCRIPTION:Liga Endesa
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Movistar Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10217,10 +10249,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - Panathinaikos AKTOR Athens
 DTSTART:20261104T194500Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:92@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Movistar Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10232,10 +10264,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - UCAM Murcia
 DTSTART:20261108T180000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:63@realmadrid.com
 DESCRIPTION:Liga Endesa
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Movistar Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10247,10 +10279,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - Crvena Zvezda Meridianbet Belgrade
 DTSTART:20261112T200000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:107@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Movistar Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10262,10 +10294,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Kosner Baskonia - Real Madrid
 DTSTART:20261115T180000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:72@realmadrid.com
 DESCRIPTION:Liga Endesa
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Fernando Buesa Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10277,10 +10309,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Besiktas Istanbul - Real Madrid
 DTSTART:20261118T170000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:120@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Sinan Erdem Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10292,10 +10324,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Olympiacos Piraeus - Real Madrid
 DTSTART:20261120T191500Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:128@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Peace Friendship Stadium
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10307,10 +10339,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - Asisa Joventut
 DTSTART:20261122T180000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:81@realmadrid.com
 DESCRIPTION:Liga Endesa
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Movistar Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10322,10 +10354,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - Zalgiris Kaunas
 DTSTART:20261125T194500Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:140@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Movistar Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10337,10 +10369,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - Barça
 DTSTART:20261203T194500Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:145@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Movistar Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10352,10 +10384,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - MoraBanc Andorra
 DTSTART:20261206T113000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:87@realmadrid.com
 DESCRIPTION:Liga Endesa
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Movistar Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10367,10 +10399,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Leyma Coruña - Real Madrid
 DTSTART:20261208T160000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:93@realmadrid.com
 DESCRIPTION:Liga Endesa
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Coliseum A Coruña
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10382,10 +10414,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 París Basketball - Real Madrid
 DTSTART:20261210T194500Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:155@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Adidas Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10397,10 +10429,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Río Breogán - Real Madrid
 DTSTART:20261212T200000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:100@realmadrid.com
 DESCRIPTION:Liga Endesa
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Pazo Provincial dos Deportes
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10412,10 +10444,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - FC Bayern Munich
 DTSTART:20261215T194500Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:166@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Movistar Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10427,10 +10459,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - Valencia Basket
 DTSTART:20261217T194500Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:174@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Movistar Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10442,10 +10474,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Casademont Zaragoza - Real Madrid
 DTSTART:20261220T180000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:117@realmadrid.com
 DESCRIPTION:Liga Endesa
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Pabellón Príncipe Felipe (Zaragoza)
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10457,10 +10489,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Virtus Bologna - Real Madrid
 DTSTART:20261222T193000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:185@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Futurshow Station
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10472,10 +10504,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Barça - Real Madrid
 DTSTART:20261227T200000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:126@realmadrid.com
 DESCRIPTION:Liga Endesa
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Palau Blaugrana
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10487,10 +10519,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - Dubai Basketball
 DTSTART:20261229T200000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:195@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Movistar Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10502,10 +10534,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - La Laguna Tenerife
 DTSTART:20270102T200000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:134@realmadrid.com
 DESCRIPTION:Liga Endesa
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Movistar Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10517,10 +10549,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Valencia Basket - Real Madrid
 DTSTART:20270104T190000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:141@realmadrid.com
 DESCRIPTION:Liga Endesa
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Roig Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10532,10 +10564,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - Olympiacos Piraeus
 DTSTART:20270107T194500Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:210@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Movistar Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10547,10 +10579,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - FIATC Girona
 DTSTART:20270110T110000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:146@realmadrid.com
 DESCRIPTION:Liga Endesa
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Movistar Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10562,10 +10594,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Crvena Zvezda Meridianbet Belgrade - Real Madrid
 DTSTART:20270112T190000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:213@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Belgrado Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10577,10 +10609,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - Anadolu Efes Istanbul
 DTSTART:20270114T194500Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:225@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Movistar Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10592,10 +10624,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Recoletas Salud San Pablo Burgos - Real Madrid
 DTSTART:20270116T183000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:155@realmadrid.com
 DESCRIPTION:Liga Endesa
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Multiusos Coliseum Burgos
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10607,10 +10639,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - Maccabi Rapyd Tel Aviv
 DTSTART:20270121T194500Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:236@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Movistar Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10622,10 +10654,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - Leyma Coruña
 DTSTART:20270124T110000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:166@realmadrid.com
 DESCRIPTION:Liga Endesa
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Movistar Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10637,10 +10669,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Fenerbahce Istanbul - Real Madrid
 DTSTART:20270129T174500Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:246@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Fenerbahce Ulker Sports Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10652,10 +10684,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 UCAM Murcia - Real Madrid
 DTSTART:20270131T180000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:180@realmadrid.com
 DESCRIPTION:Liga Endesa
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Palacio de los Deportes de Murcia
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10667,10 +10699,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Partizan Mozzart Bet Belgrade - Real Madrid
 DTSTART:20270202T194500Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:256@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Aleksandar Nikolic Hall
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10682,10 +10714,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - París Basketball
 DTSTART:20270204T194500Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:264@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Movistar Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10697,10 +10729,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - Kosner Baskonia
 DTSTART:20270207T180000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:189@realmadrid.com
 DESCRIPTION:Liga Endesa
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Movistar Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10712,10 +10744,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Zalgiris Kaunas - Real Madrid
 DTSTART:20270212T180000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:279@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Zalgiris Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10727,10 +10759,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Kids and Us Manresa - Real Madrid
 DTSTART:20270214T180000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:198@realmadrid.com
 DESCRIPTION:Liga Endesa
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Pabellón Nou Congost
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10742,10 +10774,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Barça - Real Madrid
 DTSTART:20270305T193000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:289@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Palau Blaugrana
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10757,10 +10789,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - Monbus Obradoiro
 DTSTART:20270307T170000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:206@realmadrid.com
 DESCRIPTION:Liga Endesa
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Movistar Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10772,10 +10804,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - Hapoel IBI Tel Aviv
 DTSTART:20270309T194500Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:298@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Movistar Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10787,10 +10819,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - Virtus Bologna
 DTSTART:20270311T194500Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:305@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Movistar Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10802,10 +10834,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - Valencia Basket
 DTSTART:20270314T180000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:216@realmadrid.com
 DESCRIPTION:Liga Endesa
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Movistar Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10817,10 +10849,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - Kosner Baskonia Vitoria-Gasteiz
 DTSTART:20270318T194500Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:315@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Movistar Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10832,10 +10864,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 FIATC Girona - Real Madrid
 DTSTART:20270321T180000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:225@realmadrid.com
 DESCRIPTION:Liga Endesa
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Pavelló Girona-Fontajau
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10847,10 +10879,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 FC Bayern Munich - Real Madrid
 DTSTART:20270324T190000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:329@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Audi Dome
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10862,10 +10894,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - Besiktas Istanbul
 DTSTART:20270326T194500Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:340@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Movistar Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10877,10 +10909,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - Barça
 DTSTART:20270328T170000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:234@realmadrid.com
 DESCRIPTION:Liga Endesa
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Movistar Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10892,10 +10924,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Valencia Basket - Real Madrid
 DTSTART:20270401T183000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:346@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Roig Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10907,10 +10939,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Asisa Joventut - Real Madrid
 DTSTART:20270404T150000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:241@realmadrid.com
 DESCRIPTION:Liga Endesa
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Palau Olímpic de Badalona
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10922,10 +10954,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - Armani Olimpia Milan
 DTSTART:20270406T184500Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:358@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Movistar Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10937,10 +10969,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 LDLC ASVEL Villeurbanne - Real Madrid
 DTSTART:20270408T180000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:362@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Astroballe
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10952,10 +10984,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 La Laguna Tenerife - Real Madrid
 DTSTART:20270411T170000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:252@realmadrid.com
 DESCRIPTION:Liga Endesa
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Pabellón Santiago Martín de La Laguna
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10967,10 +10999,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Panathinaikos AKTOR Athens - Real Madrid
 DTSTART:20270415T181500Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:375@realmadrid.com
 DESCRIPTION:Euroleague
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Telekom Center Athens
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10982,10 +11014,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - Río Breogán
 DTSTART:20270418T103000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:258@realmadrid.com
 DESCRIPTION:Liga Endesa
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Movistar Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -10997,10 +11029,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - iLERNA Lleida
 DTSTART:20270425T103000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:267@realmadrid.com
 DESCRIPTION:Liga Endesa
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Movistar Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -11012,10 +11044,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Surne Bilbao Basket - Real Madrid
 DTSTART:20270502T170000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:279@realmadrid.com
 DESCRIPTION:Liga Endesa
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Bilbao Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -11027,10 +11059,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Unicaja - Real Madrid
 DTSTART:20270509T170000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:288@realmadrid.com
 DESCRIPTION:Liga Endesa
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Palacio José Mª Martín Carpena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -11042,10 +11074,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 Real Madrid - Casademont Zaragoza
 DTSTART:20270516T103000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:294@realmadrid.com
 DESCRIPTION:Liga Endesa
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Movistar Arena
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -11057,10 +11089,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:⛹🏀 MoraBanc Andorra - Real Madrid
 DTSTART:20270520T220000Z
-DTSTAMP:20261006T053518Z
+DTSTAMP:20261006T172327Z
 UID:298@realmadrid.com
 DESCRIPTION:Liga Endesa
-LAST-MODIFIED:20261006T053518Z
+LAST-MODIFIED:20261006T172327Z
 LOCATION:Poliesportiu d'Andorra
 STATUS:CONFIRMED
 END:VEVENT
